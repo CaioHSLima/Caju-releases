@@ -2,18 +2,20 @@
   "manifestSchema": 1,
   "channel": "stable",
   "latest": {
-    "versionName": "2.0.5",
-    "versionCode": 16,
+    "versionName": "2.0.7",
+    "versionCode": 18,
     "releaseDate": "2026-10-15",
-    "apkUrl": "https://github.com/CaioHSLima/caju-releases/releases/download/v2.0.5/caju-v2.0.5.apk",
-    "sha256": "0c0f89a6eff328388af1efc6472fefa37bb88e38558d50079d71f14f18352151",
+    "apkUrl": "https://github.com/CaioHSLima/caju-releases/releases/download/v2.0.7/caju-v2.0.7.apk",
+    "sha256": "9bceead6f03acc3654db7100d82e11656902c40be014a8d60467501f196c48e8",
     "signerCertSha256": "440da57209646970e776bc72b9b5e81ee01454379d474577aeca02b0e6373035",
-    "sizeBytes": 73129306,
+    "sizeBytes": 73137742,
     "releaseNotes": [
-      "Correções nos saldos, fluxo de caixa, liquidação de faturas e consistência dos registros financeiros.",
-      "Melhorias na revisão de importações, preservação dos dados originais e prevenção de duplicidades.",
-      "Navegação com contexto preservado e explicações dos totais financeiros.",
-      "Atualização do aplicativo pelo canal público de APKs assinados do Caju."
+      "Valores legíveis nos temas claro e escuro; início, movimentos, análises e planejamento mais diretos.",
+      "Revisão móvel de financiamento com retorno à prévia, rascunho protegido e teclado decimal.",
+      "Leitura de índices e operações do DDC com divergências explícitas para reconciliação.",
+      "Atualização do mesmo financiamento por demonstrativo, com prazo original separado do prazo atual reduzido por antecipações e histórico dos cronogramas anteriores.",
+      "Receitas recorrentes diferenciadas de salário e prévia do impacto de agrupamento de cartões.",
+      "Nomes acessíveis nos formulários e seleção de documentos conforme a finalidade."
     ]
   },
   "compatibility": {
