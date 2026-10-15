@@ -1,0 +1,24 @@
+{
+  "manifestSchema": 1,
+  "channel": "stable",
+  "latest": {
+    "versionName": "2.0.3",
+    "versionCode": 14,
+    "releaseDate": "2026-10-15",
+    "apkUrl": "https://github.com/CaioHSLima/caju-releases/releases/download/v2.0.3/caju-v2.0.3.apk",
+    "sha256": "e263ce0205fca533c4aa4a9710e21786e67477cc90375bc7d75e097c2d1033d7",
+    "signerCertSha256": "440da57209646970e776bc72b9b5e81ee01454379d474577aeca02b0e6373035",
+    "sizeBytes": 73111846,
+    "releaseNotes": [
+      "Correções nos saldos, fluxo de caixa, liquidação de faturas e consistência dos registros financeiros.",
+      "Melhorias na revisão de importações, preservação dos dados originais e prevenção de duplicidades.",
+      "Navegação com contexto preservado e explicações dos totais financeiros.",
+      "Atualização do aplicativo pelo canal público de APKs assinados do Caju."
+    ]
+  },
+  "compatibility": {
+    "minimumAppVersionCodeForFamily": 0,
+    "minimumProtocolForFamily": 1,
+    "reason": "A política do servidor familiar é autoritativa; o uso local continua disponível."
+  }
+}
