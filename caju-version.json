@@ -2,13 +2,13 @@
   "manifestSchema": 1,
   "channel": "stable",
   "latest": {
-    "versionName": "2.0.9",
-    "versionCode": 20,
+    "versionName": "2.0.10",
+    "versionCode": 21,
     "releaseDate": "2026-10-18",
-    "apkUrl": "https://github.com/CaioHSLima/caju-releases/releases/download/v2.0.9/caju-v2.0.9.apk",
-    "sha256": "51ddf659389b710b3d6688bcf53c3ac5c2f4ac0420db875268172472fa7b8c40",
+    "apkUrl": "https://github.com/CaioHSLima/caju-releases/releases/download/v2.0.10/caju-v2.0.10.apk",
+    "sha256": "34970719d3307846b12992022ac28b4dc8b2f130be0c0930a079f5dd1c79d743",
     "signerCertSha256": "440da57209646970e776bc72b9b5e81ee01454379d474577aeca02b0e6373035",
-    "sizeBytes": 73145982,
+    "sizeBytes": 73146006,
     "releaseNotes": [
       "Valores legíveis nos temas claro e escuro; início, movimentos, análises e planejamento mais diretos.",
       "Revisão móvel de financiamento com retorno à prévia, rascunho protegido e teclado decimal.",
